@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Alumnopc10\\mi-proyecto-unity-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A12D981-D597-4C94-4195-4C80396E5303}|Assembly-CSharp.csproj|c:\\users\\alumnopc10\\mi-proyecto-unity-main\\assets\\scripts\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A12D981-D597-4C94-4195-4C80396E5303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A12D981-D597-4C94-4195-4C80396E5303}|Assembly-CSharp.csproj|c:\\users\\alumnopc10\\mi-proyecto-unity-main\\assets\\scripts\\textoejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A12D981-D597-4C94-4195-4C80396E5303}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textoejemplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,19 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InputField.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnopc10\\mi-proyecto-unity-main\\Assets\\Scripts\\InputField.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\InputField.cs",
-              "ToolTip": "C:\\Users\\Alumnopc10\\mi-proyecto-unity-main\\Assets\\Scripts\\InputField.cs",
-              "RelativeToolTip": "Assets\\Scripts\\InputField.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T16:59:19.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TextoEjemplo.cs",
               "DocumentMoniker": "C:\\Users\\Alumnopc10\\mi-proyecto-unity-main\\Assets\\Scripts\\TextoEjemplo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TextoEjemplo.cs",
